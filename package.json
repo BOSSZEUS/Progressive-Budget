@@ -1,0 +1,21 @@
+{
+  "name": "Progressive-Budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOSSZEUS/Progressive-Budget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOSSZEUS/Progressive-Budget/issues"
+  },
+  "homepage": "https://github.com/BOSSZEUS/Progressive-Budget#readme"
+}
